@@ -89,7 +89,7 @@ DocuMind-AI/
 ## 🔐 Environment Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/yourusername/DocuMind-AI.git
+git clone https://github.com/paranjaysoni/DocuMind-AI.git
 cd DocuMind-AI
 
 ### 2️⃣ Install dependencies
@@ -162,7 +162,7 @@ Make sure to configure secrets in the deployment dashboard.
 **Paranjay Soni**
 
 - GitHub: https://github.com/paranjaysoni
-- LinkedIn: (Add your LinkedIn URL)
+- LinkedIn: linkedin.com/in/paranjaysoni
 
 ---
 
